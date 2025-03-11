@@ -9,5 +9,5 @@ O projeto tem como objetivo apresentar um site onde o usuario consegue criar uma
 As tecnologias utilizadas nesse projeto foram: html, css e javascript.
 
 # Creditos
-Create Responsive Card Slider in HTML CSS & JavaScript | Step-by-Step Tutorial, canal : CodingNepal
+Create Responsive Card Slider in HTML CSS & JavaScript | Step-by-Step Tutorial, canal : CodingNepal,
 link: https://www.youtube.com/watch?v=XxG7vqFecR8&ab_channel=CodingNepal
